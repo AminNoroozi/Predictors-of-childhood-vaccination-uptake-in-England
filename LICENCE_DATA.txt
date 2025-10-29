@@ -1,0 +1,43 @@
+Dataset License Agreement (DLA)
+Title of Dataset: Vaccination cluster prediction Datasets
+Version: v1.0
+Authors/Owners: Amin Noroozi 
+Date: 19 Oct 2025
+Contact: a.noroozifakhabi@wlv.ac.uk , amin.noroozi555@gmail.com 
+________________________________________
+1. Definitions
+•	“Dataset” refers to all data files, annotations, documentation, and accompanying materials provided under this agreement.
+•	“Licensor” refers to the dataset creator(s) or institution releasing the dataset.
+•	“Licensee” refers to any individual or entity that downloads, accesses, or uses the dataset.
+________________________________________
+2. Grant of License
+The Licensor hereby grants the Licensee a non-exclusive, non-transferable, revocable license to use the Dataset solely for non-commercial research and educational purposes under the terms set forth in this agreement.
+________________________________________
+3. Permitted Uses
+The Licensee may:
+1.	Download, store, and process the Dataset for internal research or academic work.
+2.	Publish results or analyses derived from the Dataset, provided that proper citation and acknowledgement are given to the Licensor.
+3.	Modify or preprocess the Dataset for research purposes, provided that such modified versions are not redistributed.
+________________________________________
+4. Prohibited Uses
+The Licensee may not:
+1.	Use the Dataset for commercial purposes, including training commercial models or products.
+2.	Redistribute, share, sell, sublicense, or otherwise make the Dataset or substantial portions of it available to third parties.
+3.	Use the Dataset in any manner that violates applicable laws, ethical standards, or data protection regulations (e.g. GDPR).
+4.	Attempt to re-identify individuals or entities if the Dataset contains anonymised or pseudonymised data.
+________________________________________
+5. Attribution and Citation
+Publications, software, or other outputs derived from this Dataset must acknowledge and cite it as follows:
+A. Noroozi, S. M. Esha, and M. Ghari, ‘Predictors of childhood vaccination uptake in England: an explainable machine learning analysis of regional data (2021–2024)’, Vaccine, vol. 68, p. 127902, Dec. 2025, doi: 10.1016/j.vaccine.2025.127902.
+________________________________________
+6. No Warranty
+The Dataset is provided “as is” without any warranty, express or implied, including but not limited to warranties of accuracy, completeness, or fitness for a particular purpose. The Licensor is not liable for any damages arising from the use or misuse of the Dataset.
+________________________________________
+7. Termination
+The Licensee’s rights under this Agreement terminate automatically if any term is breached. Upon termination, the Licensee must delete all copies of the Dataset and related derivatives.
+________________________________________
+8. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of United Kingdom. Any disputes shall be resolved under the jurisdiction of the courts of Birmingham, United Kingdom. 
+________________________________________
+9. Acceptance of Terms
+By downloading, accessing, or using the Dataset, I acknowledge that I have read and understood the terms of this Dataset License Agreement and agree to comply with all conditions stated herein.
