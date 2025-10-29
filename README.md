@@ -20,3 +20,6 @@ https://www.sciencedirect.com/science/article/pii/S0264410X25011995
 
 GDSC.csv contains the GDSC data
 Vacstat2021-22, Vacstat2022-23, and Vacstat2023-24 contain the vaccination data for 2021-2022, 2022-2023, and 2023-2024, respectively. 
+
+**Figshare link:**
+https://figshare.com/articles/dataset/Vaccination_Cluster_Classification_Dataset/30472496 
